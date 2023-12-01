@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Rand1c.cpp">
+    <ClCompile Include="NumericalError1b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
