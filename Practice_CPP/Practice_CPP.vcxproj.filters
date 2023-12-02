@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Overload1.cpp">
+    <ClCompile Include="Bool2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
