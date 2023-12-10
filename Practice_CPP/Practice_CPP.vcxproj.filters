@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Enum1.cpp">
+    <ClCompile Include="Default1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
