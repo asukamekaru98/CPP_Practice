@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Static1.cpp">
+    <ClCompile Include="Internal1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Internal2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
