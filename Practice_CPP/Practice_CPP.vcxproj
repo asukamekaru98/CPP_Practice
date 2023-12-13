@@ -19,8 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Internal1.cpp" />
-    <ClCompile Include="Internal2.cpp" />
+    <ClCompile Include="redef1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Redef1.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
