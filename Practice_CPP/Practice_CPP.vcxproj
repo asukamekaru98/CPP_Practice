@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="redef1.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Redef1.h" />
+    <ClCompile Include="Enum1b.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
