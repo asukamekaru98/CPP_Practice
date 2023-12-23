@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Destructor.cpp" />
+    <ClCompile Include="Copy1.cpp" />
+    <ClCompile Include="IntArray.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntArray.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
