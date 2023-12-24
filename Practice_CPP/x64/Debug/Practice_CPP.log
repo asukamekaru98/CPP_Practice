@@ -1,8 +1,2 @@
-﻿  Copy1.cpp
-T:\Git\CPP_Practice\Practice_CPP\Copy1.cpp(24,20): error C2664: 'IntArray::IntArray(const IntArray &)': cannot convert argument 1 from 'int' to 'const IntArray &'
-T:\Git\CPP_Practice\Practice_CPP\Copy1.cpp(24,21): message : Reason: cannot convert from 'int' to 'const IntArray'
-T:\Git\CPP_Practice\Practice_CPP\Copy1.cpp(24,21): message : No constructor could take the source type, or constructor overload resolution was ambiguous
-T:\Git\CPP_Practice\Practice_CPP\IntArray.h(10,2): message : see declaration of 'IntArray::IntArray'
-T:\Git\CPP_Practice\Practice_CPP\Copy1.cpp(24,20): message : while trying to match the argument list '(int)'
-  IntArray.cpp
-  Generating Code...
+﻿  Operator1bb.cpp
+  Practice_CPP.vcxproj -> T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe

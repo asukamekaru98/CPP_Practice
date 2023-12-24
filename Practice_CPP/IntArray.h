@@ -5,9 +5,12 @@
 class IntArray {
 
 public:
+	void operator = (const IntArray& other);
+
+
 	//コンストラクタ、デストラクタ
 	//IntArray(int size);
-	IntArray(const IntArray& other);
+	IntArray(const IntArray & other);
 	~IntArray();
 
 	int Get(int i);
