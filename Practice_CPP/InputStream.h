@@ -1,5 +1,5 @@
-#ifndef INPUTSTREAM_H_
-#define INPUTSTREAM_H_
+#ifndef INPUTSTREAM_H_I
+#define INPUTSTREAM_H_I
 
 #include "Stream.h"
 

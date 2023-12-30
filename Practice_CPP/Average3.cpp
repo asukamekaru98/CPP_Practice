@@ -29,9 +29,9 @@ int main() {
 	static const double* const ARRAY[] = { ARRAY1,ARRAY2,ARRAY3};
 	static const int SIZE = sizeof ARRAY / sizeof *ARRAY;
 
-	printf("sizeof ARRAY = %d", (sizeof ARRAY));
-	printf("sizeof *ARRAY = %d", (sizeof *ARRAY));
-	printf("sizeof SIZE = %d", (sizeof SIZE));
+	//printf("sizeof ARRAY = %d", (sizeof ARRAY));
+	//printf("sizeof *ARRAY = %d", (sizeof *ARRAY));
+	//printf("sizeof SIZE = %d", (sizeof SIZE));
 
 	for (int i = 0; i < SIZE; ++i) {
 		ArrayStream stream(ARRAY[i]);
