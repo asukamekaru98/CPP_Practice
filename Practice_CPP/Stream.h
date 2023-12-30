@@ -5,7 +5,7 @@ class Stream {
 public:
 	double Get() const;
 
-public:
+protected:
 	double m_n;
 };
 

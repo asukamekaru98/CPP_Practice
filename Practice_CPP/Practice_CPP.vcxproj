@@ -20,8 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ArrayStream.cpp" />
-    <ClCompile Include="Average3.cpp" />
     <ClCompile Include="InputStream.cpp" />
+    <ClCompile Include="Protected.cpp" />
     <ClCompile Include="Stream.cpp" />
   </ItemGroup>
   <ItemGroup>

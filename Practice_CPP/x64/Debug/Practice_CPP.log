@@ -1,8 +1,9 @@
-﻿  Average3.cpp
-T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(32,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(32,9): message : consider using '%zd' in the format string
-T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(33,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(33,9): message : consider using '%zd' in the format string
-T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(34,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(34,9): message : consider using '%zd' in the format string
-  Practice_CPP.vcxproj -> T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe
+﻿  ArrayStream.cpp
+  InputStream.cpp
+  Protected.cpp
+T:\Git\CPP_Practice\Practice_CPP\Protected.cpp(9,16): error C2248: 'Stream::m_n': cannot access protected member declared in class 'Stream'
+T:\Git\CPP_Practice\Practice_CPP\Stream.h(9,9): message : see declaration of 'Stream::m_n'
+T:\Git\CPP_Practice\Practice_CPP\Stream.h(4,7): message : see declaration of 'Stream'
+  Stream.cpp
+  Generating Code...
+T:\Git\CPP_Practice\Practice_CPP\ArrayStream.cpp : fatal  error C1090: PDB API call failed, error code '3': T:\Git\CPP_Practice\Practice_CPP\x64\Debug\vc143.pdb

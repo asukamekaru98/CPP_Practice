@@ -24,7 +24,7 @@
     <ClCompile Include="Stream.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Average3.cpp">
+    <ClCompile Include="Protected.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
