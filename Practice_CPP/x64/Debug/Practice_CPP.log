@@ -1,2 +1,8 @@
-﻿  Operator1bb.cpp
+﻿  Average3.cpp
+T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(32,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(32,9): message : consider using '%zd' in the format string
+T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(33,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(33,9): message : consider using '%zd' in the format string
+T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(34,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+T:\Git\CPP_Practice\Practice_CPP\Average3.cpp(34,9): message : consider using '%zd' in the format string
   Practice_CPP.vcxproj -> T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe

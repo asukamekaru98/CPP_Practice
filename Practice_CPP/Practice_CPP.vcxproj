@@ -19,7 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Operator1bb.cpp" />
+    <ClCompile Include="ArrayStream.cpp" />
+    <ClCompile Include="Average3.cpp" />
+    <ClCompile Include="InputStream.cpp" />
+    <ClCompile Include="Stream.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArrayStream.h" />
+    <ClInclude Include="InputStream.h" />
+    <ClInclude Include="Stream.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
