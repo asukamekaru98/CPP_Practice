@@ -20,13 +20,18 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ArrayStream.cpp" />
+    <ClCompile Include="Average3.cpp" />
+    <ClCompile Include="Car.cpp" />
     <ClCompile Include="InputStream.cpp" />
     <ClCompile Include="Stream.cpp" />
+    <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArrayStream.h" />
+    <ClInclude Include="Car.h" />
     <ClInclude Include="InputStream.h" />
     <ClInclude Include="Stream.h" />
+    <ClInclude Include="Vehicle.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
