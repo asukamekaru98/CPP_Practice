@@ -22,7 +22,6 @@
     <ClCompile Include="ArrayStream.cpp" />
     <ClCompile Include="InputStream.cpp" />
     <ClCompile Include="Stream.cpp" />
-    <ClCompile Include="Upcast2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArrayStream.h" />
