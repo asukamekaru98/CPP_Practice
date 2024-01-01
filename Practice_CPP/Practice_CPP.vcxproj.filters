@@ -30,7 +30,7 @@
     <ClCompile Include="Car.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Average3.cpp">
+    <ClCompile Include="Override2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

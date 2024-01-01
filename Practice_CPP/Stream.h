@@ -4,6 +4,7 @@
 class Stream {
 public:
 	double Get() const;
+	virtual bool Set();//’l‚ğİ’è
 
 protected:
 	double m_n;

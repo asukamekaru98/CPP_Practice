@@ -20,9 +20,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ArrayStream.cpp" />
-    <ClCompile Include="Average3.cpp" />
     <ClCompile Include="Car.cpp" />
     <ClCompile Include="InputStream.cpp" />
+    <ClCompile Include="Override2.cpp" />
     <ClCompile Include="Stream.cpp" />
     <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>
