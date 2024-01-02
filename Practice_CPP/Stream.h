@@ -4,10 +4,11 @@
 class Stream {
 public:
 	double Get() const;
-	virtual bool Set();//値を設定
+	bool Set();//値を設定
 
 protected:
 	double m_n;
+	virtual void SetBase();//値を設定する基本関数
 };
 
 #endif
