@@ -1,7 +1,6 @@
 #include "ArrayStream.h"
 
-ArrayStream::ArrayStream(const double* array):
-Stream(*array){
+ArrayStream::ArrayStream(const double* array){
 	m_array = array;
 	m_i = 0;
 }

@@ -3,9 +3,16 @@
 
 using namespace std;
 
+#if 0//7-10
 Stream::Stream(double n) {
 	cout << "Stream" << endl;
 	m_n = n;
+}
+#endif
+
+Stream::Stream():
+m_n(1)
+{
 }
 
 double Stream::Get() const {

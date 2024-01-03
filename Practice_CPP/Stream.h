@@ -3,7 +3,10 @@
 
 class Stream {
 public:
+#if 0//7-10
 	Stream(double n);//コンストラクタ
+#endif
+	Stream();
 	double Get() const;
 	bool Set();//値を設定
 

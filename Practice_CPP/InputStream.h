@@ -7,14 +7,14 @@ class InputStream :
 	public Stream
 {
 public:
-	InputStream(double n);
+	InputStream();
 
 /* 07-05
 public:
 	bool Set();
 */
 
-private:
+protected:
 	virtual void SetBase();
 
 };
