@@ -13,13 +13,15 @@ bool Stream::Set() {
 	return m_n >= 0;
 }
 
+#if  0//07-06
 void Stream::SetBase() {
 	cout << "Stream::SetBase" << endl;
 
 	m_n = -1;
 }
+#endif //  1
 
-/*
+/*07-05
 bool Stream::Set() {
 	cout << "Stream::Set" << endl;
 
