@@ -3,6 +3,7 @@
 
 class Stream {
 public:
+	Stream();//コンストラクタ
 	double Get() const;
 	bool Set();//値を設定
 

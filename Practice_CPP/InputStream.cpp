@@ -2,6 +2,11 @@
 #include <iostream>
 
 using namespace std;
+
+InputStream::InputStream() {
+	cout << "InputStream" << endl;
+}
+
 void InputStream::SetBase() {
 	cout << "InputStream::SetBase" << endl;
 	cin >> m_n;
