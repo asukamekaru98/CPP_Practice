@@ -7,6 +7,7 @@ public:
 	Stream(double n);//コンストラクタ
 #endif
 	Stream();
+	virtual ~Stream();
 	double Get() const;
 	bool Set();//値を設定
 

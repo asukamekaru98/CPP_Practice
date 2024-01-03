@@ -1,2 +1,7 @@
-﻿  New4.cpp
+﻿  ArrayStream.cpp
+  HalfInputStream.cpp
+  InputStream.cpp
+  New4.cpp
+  Stream.cpp
+  Generating Code...
   Practice_CPP.vcxproj -> T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe

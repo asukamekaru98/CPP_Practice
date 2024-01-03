@@ -15,6 +15,8 @@ m_n(1)
 {
 }
 
+Stream::~Stream(){}
+
 double Stream::Get() const {
 	return m_n;
 }
