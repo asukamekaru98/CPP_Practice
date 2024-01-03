@@ -7,7 +7,7 @@ class InputStream :
 	public Stream
 {
 public:
-	InputStream();
+	InputStream(double n);
 
 /* 07-05
 public:

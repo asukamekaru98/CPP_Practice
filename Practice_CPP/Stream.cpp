@@ -3,9 +3,9 @@
 
 using namespace std;
 
-Stream::Stream() {
+Stream::Stream(double n) {
 	cout << "Stream" << endl;
-	m_n = -1;
+	m_n = n;
 }
 
 double Stream::Get() const {

@@ -3,7 +3,9 @@
 
 using namespace std;
 
-InputStream::InputStream() {
+InputStream::InputStream(double n):
+Stream(n)
+{
 	cout << "InputStream" << endl;
 }
 
