@@ -7,11 +7,14 @@ class ArrayStream :
 public Stream
 {
 public:
-	ArrayStream(const double* array);
-	bool Set();
+	ArrayStream(const double* array,int size);
+	~ArrayStream();
+	//bool Set();
+protected:
+	virtual void SetBase();
 
 private:
-	const double* m_array;
+	double* m_array;
 	int m_i;
 };
 

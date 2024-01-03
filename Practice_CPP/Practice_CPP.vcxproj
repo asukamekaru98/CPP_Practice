@@ -21,9 +21,9 @@
   <ItemGroup>
     <ClCompile Include="ArrayStream.cpp" />
     <ClCompile Include="Car.cpp" />
-    <ClCompile Include="Constructor4.cpp" />
     <ClCompile Include="HalfInputStream.cpp" />
     <ClCompile Include="InputStream.cpp" />
+    <ClCompile Include="New4.cpp" />
     <ClCompile Include="Stream.cpp" />
     <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>
