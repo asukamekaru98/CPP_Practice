@@ -1,3 +1,2 @@
-﻿  String3.cpp
-T:\Git\CPP_Practice\Practice_CPP\String3.cpp(16,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+﻿  String4.cpp
   Practice_CPP.vcxproj -> T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe
