@@ -21,7 +21,7 @@
   <ItemGroup>
     <ClCompile Include="ArrayStream.cpp" />
     <ClCompile Include="Car.cpp" />
-    <ClCompile Include="File3.cpp" />
+    <ClCompile Include="File5b.cpp" />
     <ClCompile Include="HalfInputStream.cpp" />
     <ClCompile Include="InputStream.cpp" />
     <ClCompile Include="Stream.cpp" />
