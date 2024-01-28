@@ -1,4 +1,2 @@
-﻿  File6.cpp
-T:\Git\CPP_Practice\Practice_CPP\File6.cpp(73,24): warning C4244: 'initializing': conversion from 'std::streamsize' to 'int', possible loss of data
-T:\Git\CPP_Practice\Practice_CPP\File6.cpp(44): warning C4715: 'DumpFile::Run': not all control paths return a value
-  Practice_CPP.vcxproj -> T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe
+﻿  Input2.cpp
+T:\Git\CPP_Practice\Practice_CPP\Input2.cpp(10,21): error C2109: subscript requires array or pointer type

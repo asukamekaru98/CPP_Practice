@@ -33,7 +33,7 @@
     <ClCompile Include="HalfInputStream.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="File6.cpp">
+    <ClCompile Include="Input2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
