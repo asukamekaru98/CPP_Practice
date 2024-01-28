@@ -23,7 +23,7 @@
     <ClCompile Include="Car.cpp" />
     <ClCompile Include="HalfInputStream.cpp" />
     <ClCompile Include="InputStream.cpp" />
-    <ClCompile Include="Namespace1.cpp" />
+    <ClCompile Include="Namespace2.cpp" />
     <ClCompile Include="Stream.cpp" />
     <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>

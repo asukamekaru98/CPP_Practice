@@ -12,6 +12,10 @@ namespace Name2 {
 	void Func() {
 		cout << "Name2 Func" << endl;
 	}
+
+	void Hoge() {
+		cout << "Hoge Func" << endl;
+	}
 }
 
 void Func() {
@@ -23,4 +27,5 @@ int main() {
 	Name2::Func();
 	::Func();
 	Func();
+	Name2::Hoge();
 }
