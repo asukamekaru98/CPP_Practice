@@ -15,48 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="InputStream.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayStream.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Stream.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Vehicle.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Car.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="HalfInputStream.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Namespace4c.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Template1.cpp">
+    <ClCompile Include="Template1b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="InputStream.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ArrayStream.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Stream.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Vehicle.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Car.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="HalfInputStream.h">
+    <ClInclude Include="Template.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

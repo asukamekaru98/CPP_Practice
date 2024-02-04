@@ -19,22 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArrayStream.cpp" />
-    <ClCompile Include="Car.cpp" />
-    <ClCompile Include="HalfInputStream.cpp" />
-    <ClCompile Include="InputStream.cpp" />
-    <ClCompile Include="Namespace4c.cpp" />
-    <ClCompile Include="Stream.cpp" />
-    <ClCompile Include="Template1.cpp" />
-    <ClCompile Include="Vehicle.cpp" />
+    <ClCompile Include="Template1b.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ArrayStream.h" />
-    <ClInclude Include="Car.h" />
-    <ClInclude Include="HalfInputStream.h" />
-    <ClInclude Include="InputStream.h" />
-    <ClInclude Include="Stream.h" />
-    <ClInclude Include="Vehicle.h" />
+    <ClInclude Include="Template.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
