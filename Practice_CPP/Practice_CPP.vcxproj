@@ -25,6 +25,7 @@
     <ClCompile Include="InputStream.cpp" />
     <ClCompile Include="Namespace4c.cpp" />
     <ClCompile Include="Stream.cpp" />
+    <ClCompile Include="Template1.cpp" />
     <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>
   <ItemGroup>

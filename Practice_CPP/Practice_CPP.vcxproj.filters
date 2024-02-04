@@ -36,6 +36,9 @@
     <ClCompile Include="Namespace4c.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Template1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="InputStream.h">
