@@ -19,10 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Template3.cpp" />
+    <ClInclude Include="Array.h" />
+    <ClInclude Include="Template.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Template.h" />
+    <ClCompile Include="ClassTemplate1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
