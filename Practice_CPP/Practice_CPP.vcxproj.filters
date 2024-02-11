@@ -23,7 +23,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ClassTemplate1.cpp">
+    <ClCompile Include="Template5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

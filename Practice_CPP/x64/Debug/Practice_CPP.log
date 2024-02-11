@@ -1,9 +1,2 @@
-﻿  ClassTemplate1.cpp
-T:\Git\CPP_Practice\Practice_CPP\Array.h(87,2): warning C4102: 'std': unreferenced label
-T:\Git\CPP_Practice\Practice_CPP\Array.h(79,1): message : while compiling class template member function 'void Array<int>::CheckIndex(int) const'
-T:\Git\CPP_Practice\Practice_CPP\Array.h(66,12): message : see reference to function template instantiation 'void Array<int>::CheckIndex(int) const' being compiled
-T:\Git\CPP_Practice\Practice_CPP\Array.h(34,1): message : while compiling class template member function 'Array<int>::Array(int)'
-T:\Git\CPP_Practice\Practice_CPP\ClassTemplate1.cpp(8,13): message : see reference to function template instantiation 'Array<int>::Array(int)' being compiled
-T:\Git\CPP_Practice\Practice_CPP\ClassTemplate1.cpp(8,19): message : see reference to class template instantiation 'Array<int>' being compiled
-ClassTemplate1.obj : error LNK2019: unresolved external symbol "public: int __cdecl Array<int>::Size(void)const " (?Size@?$Array@H@@QEBAHXZ) referenced in function main
-T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe : fatal error LNK1120: 1 unresolved externals
+﻿  Template5.cpp
+  Practice_CPP.vcxproj -> T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe
