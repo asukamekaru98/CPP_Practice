@@ -23,7 +23,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exception2.cpp">
+    <ClCompile Include="Exception1g.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

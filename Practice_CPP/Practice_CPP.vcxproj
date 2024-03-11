@@ -23,7 +23,7 @@
     <ClInclude Include="Template.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exception2.cpp" />
+    <ClCompile Include="Exception1g.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
