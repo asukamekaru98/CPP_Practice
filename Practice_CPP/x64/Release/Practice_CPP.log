@@ -1,0 +1,7 @@
+﻿  ArrayStream.cpp
+  Car.cpp
+  InputStream.cpp
+  Stream.cpp
+  Vehicle.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+T:\Git\CPP_Practice\x64\Release\Practice_CPP.exe : fatal error LNK1120: 1 unresolved externals
