@@ -20,10 +20,17 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Array.h" />
+    <ClInclude Include="Exception.h" />
+    <ClInclude Include="FileException.h" />
+    <ClInclude Include="FileException2.h" />
     <ClInclude Include="Template.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Exception.cpp" />
+    <ClCompile Include="Exception1h.cpp" />
+    <ClCompile Include="Exception1i.cpp" />
     <ClCompile Include="Exception4b.cpp" />
+    <ClCompile Include="FileException.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
