@@ -15,36 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Template.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Array.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Exception.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="FileException.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="FileException2.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Exception4b.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Exception.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FileException.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Exception1h.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Exception1i.cpp">
+    <ClCompile Include="Exception5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
