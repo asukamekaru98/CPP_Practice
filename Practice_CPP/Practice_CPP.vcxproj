@@ -23,7 +23,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Integer.cpp" />
-    <ClCompile Include="StaticMember1.cpp" />
+    <ClCompile Include="StaticMember2b.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
