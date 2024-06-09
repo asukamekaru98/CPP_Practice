@@ -23,10 +23,7 @@
     <ClCompile Include="Integer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="StaticMember2c.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="StaticMember2d.cpp">
+    <ClCompile Include="Const2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

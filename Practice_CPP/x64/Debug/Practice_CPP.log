@@ -1,5 +1,2 @@
-﻿  StaticMember2c.cpp
-StaticMember2c.obj : error LNK2005: "public: __cdecl Count::Count(void)" (??0Count@@QEAA@XZ) already defined in StaticMember2b.obj
-StaticMember2c.obj : error LNK2005: "public: virtual __cdecl Count::~Count(void)" (??1Count@@UEAA@XZ) already defined in StaticMember2b.obj
-StaticMember2c.obj : error LNK2005: main already defined in StaticMember2b.obj
-T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe : fatal error LNK1169: one or more multiply defined symbols found
+﻿  Const2.cpp
+  Practice_CPP.vcxproj -> T:\Git\CPP_Practice\x64\Debug\Practice_CPP.exe

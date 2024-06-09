@@ -22,9 +22,8 @@
     <ClInclude Include="Integer.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Const2.cpp" />
     <ClCompile Include="Integer.cpp" />
-    <ClCompile Include="StaticMember2c.cpp" />
-    <ClCompile Include="StaticMember2d.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
