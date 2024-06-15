@@ -18,12 +18,15 @@
     <ClInclude Include="Integer.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Array1105.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Integer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Const2.cpp">
+    <ClCompile Include="const3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
