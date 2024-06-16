@@ -26,7 +26,7 @@
     <ClCompile Include="Integer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="const3.cpp">
+    <ClCompile Include="temporary1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
