@@ -23,8 +23,8 @@
     <ClInclude Include="Integer.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Assign2.cpp" />
     <ClCompile Include="Integer.cpp" />
-    <ClCompile Include="Temporary3b.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
