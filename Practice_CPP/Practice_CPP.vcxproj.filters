@@ -15,18 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Integer.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Array1105.h">
+    <ClInclude Include="Fraction.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Integer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Assign2.cpp">
+    <ClCompile Include="Fraction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -19,12 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Array1105.h" />
-    <ClInclude Include="Integer.h" />
+    <ClInclude Include="Fraction.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Assign2.cpp" />
-    <ClCompile Include="Integer.cpp" />
+    <ClCompile Include="Fraction.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
