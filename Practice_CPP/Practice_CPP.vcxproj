@@ -22,6 +22,7 @@
     <ClInclude Include="Fraction.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Explict1.cpp" />
     <ClCompile Include="Fraction.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
