@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Fraction.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Explict1.cpp" />
-    <ClCompile Include="Fraction.cpp" />
+    <ClCompile Include="Cast1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
