@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Cast2.cpp">
+    <ClCompile Include="BitFlag1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
