@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BitFlag1.cpp">
+    <ClCompile Include="Typedef1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Git\\CPP_Practice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|T:\\Git\\CPP_Practice2\\Practice_CPP\\Typedef1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|solutionrelative:Practice_CPP\\Typedef1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Typedef1.cpp",
+              "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Typedef1.cpp",
+              "RelativeDocumentMoniker": "Practice_CPP\\Typedef1.cpp",
+              "ToolTip": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Typedef1.cpp",
+              "RelativeToolTip": "Practice_CPP\\Typedef1.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T13:35:02.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
