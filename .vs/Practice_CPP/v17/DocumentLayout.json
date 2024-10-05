@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "T:\\Git\\CPP_Practice2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|T:\\Git\\CPP_Practice2\\Practice_CPP\\Typedef2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|solutionrelative:Practice_CPP\\Typedef2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|T:\\Git\\CPP_Practice2\\Practice_CPP\\Typedef1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|solutionrelative:Practice_CPP\\Typedef1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Typedef2.cpp",
+              "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Typedef2.cpp",
+              "RelativeDocumentMoniker": "Practice_CPP\\Typedef2.cpp",
+              "ToolTip": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Typedef2.cpp",
+              "RelativeToolTip": "Practice_CPP\\Typedef2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T10:05:04.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Typedef1.cpp",
               "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Typedef1.cpp",
               "RelativeDocumentMoniker": "Practice_CPP\\Typedef1.cpp",
               "ToolTip": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Typedef1.cpp",
               "RelativeToolTip": "Practice_CPP\\Typedef1.cpp",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-30T13:35:02.323Z",
               "EditorCaption": ""
