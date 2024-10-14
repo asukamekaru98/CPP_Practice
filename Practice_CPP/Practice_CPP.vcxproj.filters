@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Typedef1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Typedef2.cpp">
+    <ClCompile Include="Macro1b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
