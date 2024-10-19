@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "T:\\Git\\CPP_Practice2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|T:\\Git\\CPP_Practice2\\Practice_CPP\\Macro1b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|solutionrelative:Practice_CPP\\Macro1b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|T:\\Git\\CPP_Practice2\\Practice_CPP\\Macro3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|solutionrelative:Practice_CPP\\Macro3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Macro1b.cpp",
-              "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Macro1b.cpp",
-              "RelativeDocumentMoniker": "Practice_CPP\\Macro1b.cpp",
-              "ToolTip": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Macro1b.cpp",
-              "RelativeToolTip": "Practice_CPP\\Macro1b.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Title": "Macro3.cpp",
+              "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Macro3.cpp",
+              "RelativeDocumentMoniker": "Practice_CPP\\Macro3.cpp",
+              "ToolTip": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Macro3.cpp",
+              "RelativeToolTip": "Practice_CPP\\Macro3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T14:36:21.034Z",
+              "WhenOpened": "2024-10-19T14:15:28.827Z",
               "EditorCaption": ""
             }
           ]
