@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Macro3.cpp" />
+    <ClInclude Include="Assert.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Assert.h" />
+    <ClCompile Include="MultipleInherit1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
