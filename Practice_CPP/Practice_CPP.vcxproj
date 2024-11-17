@@ -22,7 +22,7 @@
     <ClInclude Include="Assert.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MultipleInherit1.cpp" />
+    <ClCompile Include="MultipleInherit2b.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
