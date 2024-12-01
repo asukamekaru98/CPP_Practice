@@ -25,6 +25,8 @@
     <ClCompile Include="MultipleInherit2b.cpp" />
     <ClCompile Include="VirtualInherit1.cpp" />
     <ClCompile Include="VirtualInherit1b.cpp" />
+    <ClCompile Include="VirtualInherit2.cpp" />
+    <ClCompile Include="VirtualInherit2b.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
