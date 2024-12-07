@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "T:\\Git\\CPP_Practice2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|solutionrelative:Practice_CPP\\VirtualInherit2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit2b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|solutionrelative:Practice_CPP\\VirtualInherit2b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4616DFB7-357C-458C-9120-CA5DB47F24ED}|Practice_CPP\\Practice_CPP.vcxproj|solutionrelative:Practice_CPP\\VirtualInherit1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VirtualInherit2.cpp",
+              "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit2.cpp",
+              "RelativeDocumentMoniker": "Practice_CPP\\VirtualInherit2.cpp",
+              "ToolTip": "T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit2.cpp",
+              "RelativeToolTip": "Practice_CPP\\VirtualInherit2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T08:10:13.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VirtualInherit2b.cpp",
+              "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit2b.cpp",
+              "RelativeDocumentMoniker": "Practice_CPP\\VirtualInherit2b.cpp",
+              "ToolTip": "T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit2b.cpp",
+              "RelativeToolTip": "Practice_CPP\\VirtualInherit2b.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T08:09:00.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "VirtualInherit1.cpp",
               "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit1.cpp",
               "RelativeDocumentMoniker": "Practice_CPP\\VirtualInherit1.cpp",
               "ToolTip": "T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit1.cpp",
               "RelativeToolTip": "Practice_CPP\\VirtualInherit1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T14:23:50.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "VirtualInherit1b.cpp",
               "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\VirtualInherit1b.cpp",
               "RelativeDocumentMoniker": "Practice_CPP\\VirtualInherit1b.cpp",
@@ -51,12 +85,11 @@
               "RelativeToolTip": "Practice_CPP\\VirtualInherit1b.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-30T14:16:56.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T14:16:56.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MultipleInherit2b.cpp",
               "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\MultipleInherit2b.cpp",
               "RelativeDocumentMoniker": "Practice_CPP\\MultipleInherit2b.cpp",
@@ -64,12 +97,11 @@
               "RelativeToolTip": "Practice_CPP\\MultipleInherit2b.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-17T10:00:23.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T10:00:23.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Assert.h",
               "DocumentMoniker": "T:\\Git\\CPP_Practice2\\Practice_CPP\\Assert.h",
               "RelativeDocumentMoniker": "Practice_CPP\\Assert.h",
