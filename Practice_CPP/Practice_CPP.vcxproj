@@ -22,13 +22,7 @@
     <ClInclude Include="Assert.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MultipleInherit2b.cpp" />
-    <ClCompile Include="VirtualInherit1.cpp" />
-    <ClCompile Include="VirtualInherit1b.cpp" />
-    <ClCompile Include="VirtualInherit2.cpp" />
-    <ClCompile Include="VirtualInherit2b.cpp" />
-    <ClCompile Include="VirtualInherit3.cpp" />
-    <ClCompile Include="VirtualInherit3b.cpp" />
+    <ClCompile Include="Interface1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
